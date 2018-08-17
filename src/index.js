@@ -1,5 +1,5 @@
 'use strict';
-var BigNumber = require('bignumber.js');
+var BigNumber = require('bignumber.js-4.1.0');
 var decodeAddress = require('ripple-address-codec').decodeAddress;
 var binary = require('ripple-binary-codec');
 var hashprefixes = require('./hashprefixes');
